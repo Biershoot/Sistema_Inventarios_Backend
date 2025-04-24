@@ -13,9 +13,15 @@ Este proyecto es un sistema de gestión de inventarios desarrollado como parte d
 - MySQL
 - Lombok
 
+### 🔜 Frontend (Angular)
+- Angular 16+
+- Bootstrap 5
+- TypeScript
+
 ---
 
 ## ⚙️ Estructura del Proyecto
+
 
 
 ---
